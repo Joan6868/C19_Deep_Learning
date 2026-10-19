@@ -1,0 +1,26 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# Windows metadata files (WSL)
+*:Zone.Identifier
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
